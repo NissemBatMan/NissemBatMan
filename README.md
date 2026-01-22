@@ -22,12 +22,12 @@
 
 <!-- 📊 GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flower-Eyes&show_icons=true&theme=radical&hide_border=true&title_color=FF4F8B&icon_color=FF4F8B" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NissemBatMan&show_icons=true&theme=radical&hide_border=true&title_color=FF4F8B&icon_color=FF4F8B" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flower-Eyes&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NissemBatMan&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 <!-- 🐍 Snake Animation -->
 <h2 align="center"> GitHub Contribution Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Flower-Eyes/Flower-Eyes/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/NissemBatMan/NissemBatMan/output/github-snake.svg" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ```javascript
 const nissem = {
   name: "Nissem",
-  alias: "Flower-Eyes",
+  alias: "NissemBatMan",
   role: "Front-End Developer",
   focus: ["UI/UX", "Responsive Design", "Interactive Animations"],
   tech: ["HTML", "CSS", "JavaScript", "VS Code", "Discord Bots"],
