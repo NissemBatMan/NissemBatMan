@@ -20,12 +20,15 @@
   <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,git,github,linux,vscode&perline=9" />
 </p>
 
-### 📂 Open source
+### 📂 Projects
 
-| Project | What it is |
-| --- | --- |
-| [gaming-community-website](https://github.com/NissemBatMan/gaming-community-website) | Free, easily customizable website template for gaming servers and communities |
-| [discord-auto-react](https://github.com/NissemBatMan/discord-auto-react) | Small Discord automation tool (JavaScript) |
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**kanban**](https://github.com/NissemBatMan/kanban) · [live demo](https://nissembatman.github.io/kanban/) | Offline-first Kanban board: drag & drop, keyboard moves, search, priorities, due dates, dark mode, JSON import/export | React 19 · TypeScript · Vite · Vitest |
+| [**motion-ui**](https://github.com/NissemBatMan/motion-ui) · [live demo](https://nissembatman.github.io/motion-ui/) | 18 accessible, self-contained pure-CSS animations with a one-click copy gallery | CSS · JavaScript · Node test runner |
+| [**tnd**](https://github.com/NissemBatMan/tnd) | Tunisian dinar library: exact millime maths, price formatting, parsing, amounts in French words for invoices | TypeScript · Vitest · 0 dependencies |
+| [gaming-community-website](https://github.com/NissemBatMan/gaming-community-website) | Free, easily customizable website template for gaming servers and communities | HTML · CSS |
+| [discord-auto-react](https://github.com/NissemBatMan/discord-auto-react) | Small Discord automation tool | JavaScript |
 
 ### 🐍 Activity
 
