@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-Stack Developer</b> — Next.js · React · TypeScript · Laravel · MySQL<br />
-  I build fast, secure web shops and business tools, from the database to the last animation.
+  I build fast, secure websites and web apps, from the database to the last animation.
 </p>
 
 <p align="center">
@@ -12,16 +12,6 @@
 </p>
 
 ---
-
-### 🚀 What I'm building
-
-**[Media 7 Store](https://media7.store)** — a complete e-commerce platform for a high-tech retailer
-- **Storefront:** Next.js 16 + Tailwind 4, server-rendered for SEO, mobile-first, interactive 3D product showcase (Three.js)
-- **API:** Laravel 13 + MySQL — orders, catalogue, customer accounts with e-mail/SMS one-time codes
-- **Admin panel:** products & photos, orders with automatic confirmation e-mails, customer messages, activity journal, team invitations
-- **Security first:** the browser never talks to the API directly, httpOnly sessions, rate limiting, audit log, tested with PHPUnit
-
-**[Media7 apps](https://github.com/NissemBatMan/media7-apps)** — the store's client app (Android) and team app (Windows)
 
 ### 🧰 Tech stack
 
